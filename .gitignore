@@ -1,6 +1,15 @@
-# ===== Dataset folder =====
+# ===== Model / Data =====
 animals_image*
+data/
+datasets/
+*.pt
+*.pth
+*.ckpt
 
+# ===== Jupyter =====
+.ipynb_checkpoints/
 
-# ===== Check point files =====
-*_checkpoint*
+# ===== Secrets =====
+.env
+*.key
+*.pem
