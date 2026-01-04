@@ -1,10 +1,5 @@
 # ===== Model / Data =====
 animals_image*
-data/
-datasets/
-*.pt
-*.pth
-*.ckpt
 
 # ===== Jupyter =====
 .ipynb_checkpoints/
