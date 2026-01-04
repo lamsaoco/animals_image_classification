@@ -1,0 +1,6 @@
+# ===== Dataset folder =====
+animals_image*
+
+
+# ===== Check point files =====
+*_checkpoint*
