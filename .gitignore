@@ -12,3 +12,6 @@ app.py
 
 # ===== Others =====
 *.pyc
+*.zip
+*aws*
+*Script*
