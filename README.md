@@ -421,6 +421,8 @@ docker push <aws_account_id>.dkr.ecr.ap-southeast-1.amazonaws.com/animals-classi
 8. Access Application API
 Once deployed, the application can be accessed via the cloud-hosted API endpoint
 
+![alt text](image-12.png)
+
 Deploying on AWS ensures that the application is highly available, reproducible, and production-ready, eliminating "works on my machine" issues and enabling scaling in the cloud.
 
 ---
