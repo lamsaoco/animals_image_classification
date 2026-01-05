@@ -8,3 +8,7 @@ animals_image*
 .env
 *.key
 *.pem
+app.py
+
+# ===== Others =====
+*.pyc
