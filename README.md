@@ -454,7 +454,7 @@ python app.py
 ```
 
 ### 5. Test on cloud
-Try this link: [http://13.213.46.196:8080/docs](http://47.129.87.227:8080/docs)
+Try this link: [API link](http://47.129.87.227:8080/docs)
 
 ---
 
